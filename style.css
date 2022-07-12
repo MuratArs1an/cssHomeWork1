@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(85, 84, 84);
+    color: bisque;
+}
+h1 {
+    color: goldenrod;
+    font-size: 50px;
+}
+
+a {
+    color: rgb(231, 108, 231);
+    font-size: 20px;
+    font-style: italic;
+}
+
+.photo-small {
+    width: 250px;
+    height: 200px;
+    border-radius: 3px;
+    border-style: double;
+    border-color: purple;
+}
+
+li {
+    font-size: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+div {
+    background-color: dimgray;
+    margin-top: 0px;
+    padding-top: 0px;
+    border-style: inset;
+    border-color: gold;
+}
+nav{
+    background-color: rgba(105, 105, 105, 0.288);
+    padding-bottom: 20px;
+}
+
+h3 {
+    padding-top: 10px;
+    padding-left: 100px;
+    font-size: 30px;
+}
+.p-buyuk {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
